@@ -4,7 +4,7 @@
 Thank you for using Haxor World AIO. In this update, we focused on adding new tools and improving stability so that workflows run optimally. Here are the full details:
 
 ## New Features
-- Added a comprehensive Vulnerability Scanner for mass-detecting and reporting CVEs, equipped with targeted and aggressive payload delivery modes.
+- Added a comprehensive Vulnerability Scanner for mass-detecting CVEs, equipped with targeted and aggressive payload delivery modes.
 - Added a new Update Logs popup feature synchronized directly with GitHub.
 - Integrated a new Shodan API scanning logic with aggressive multi-threading (up to x200 limits).
 - Revamped the UI system on the CMS Scanner and Vulnerability Scanner pages with the standardized Task Queue component.
